@@ -25,4 +25,5 @@ Overall, the shop in **Only Road** adds depth and progression to the gameplay ex
 
 ## Play game
 
-WebGl link:
+WebGl link: https://play.unity.com/mg/other/webgl-build-1289
+Note: The shop and save system won't work due to WebGL limitations.
